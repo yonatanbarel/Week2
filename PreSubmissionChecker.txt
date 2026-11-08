@@ -1,0 +1,14 @@
+##RequiredFiles
+answers.pdf
+
+##RequiredVS
+*[1].sln | *[1].slnx
+*[1].vcxproj
+*[1].vcxproj.filters
+
+##Bonus
+
+##ExcludedFiles
+*.vcxproj.user
+Debug
+.vs

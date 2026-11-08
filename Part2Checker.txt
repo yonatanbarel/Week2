@@ -1,0 +1,13 @@
+##RequiredFiles
+Device.h | device.h -m1
+Device.cpp | device.cpp -m1
+User.h | user.h -m1
+User.cpp | user.cpp -m1
+DeviceList.h | devicelist.h -m1 | deviceList.h -m1 | Devicelist.h -m1
+DeviceList.cpp | devicelist.cpp -m1 | deviceList.cpp -m1 | Devicelist.cpp -m1
+
+##RequiredVS
+
+##Bonus
+
+##ExcludedFiles

@@ -1,0 +1,24 @@
+##RequiredFiles
+Device.h | device.h -m1
+Device.cpp | device.cpp -m1
+User.h | user.h -m1
+User.cpp | user.cpp -m1
+Page.h | page.h -m1
+Page.cpp | page.cpp -m1
+Profile.h | profile.h -m1
+Profile.cpp | profile.cpp -m1
+SocialNetwork.h | socialnetwork.h -m1 | socialNetwork.h -m1 | Socialnetwork.h -m1
+SocialNetwork.cpp | socialnetwork.cpp -m1 | socialNetwork.cpp -m1 | Socialnetwork.cpp -m1
+DeviceList.h | devicelist.h -m1 | deviceList.h -m1 | Devicelist.h -m1
+DeviceList.cpp | devicelist.cpp -m1 | deviceList.cpp -m1 | Devicelist.cpp -m1
+UserList.h | userlist.h -m1 | userList.h -m1 | Userlist.h -m1
+UserList.cpp | userlist.cpp -m1 | userList.cpp -m1 | Userlist.cpp -m1
+ProfileList.h | profilelist.h -m1 | profileList.h -m1 | Profilelist.h -m1
+ProfileList.cpp | profilelist.cpp -m1 | profileList.cpp -m1 | Profilelist.cpp -m1
+Tester.cpp
+
+##RequiredVS
+
+##Bonus
+
+##ExcludedFiles

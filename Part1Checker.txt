@@ -1,0 +1,9 @@
+##RequiredFiles
+Device.h | device.h -m1
+Device.cpp | device.cpp -m1
+
+##RequiredVS
+
+##Bonus
+
+##ExcludedFiles
